@@ -14,7 +14,7 @@ program
         console.log("")
         console.log("Examples:")
         console.log(
-            " $instantShare -t recipientemail@gmail.com file1.txt file2.txt  "
+            " $fsharecli -t recipientemail@gmail.com file1.txt file2.txt  "
         )
         console.log("")
     })
