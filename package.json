@@ -1,6 +1,6 @@
 {
   "name": "fsharecli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "instantshare is send files via email directly from your terminal. Attach files, customize email content, and send securely,we dont have login to send file ",
   "main": "index.js",
   "bin": {
