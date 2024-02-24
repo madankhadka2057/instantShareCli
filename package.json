@@ -1,0 +1,34 @@
+{
+  "name": "clishare",
+  "version": "1.0.1",
+  "description": "instantshare is send files via email directly from your terminal. Attach files, customize email content, and send securely,we dont have login to send file ",
+  "main": "index.js",
+  "bin": {
+    "instantshare": "app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshbasnet089/clishare.git"
+  },
+  "author": "Madan Khadka",
+  "license": "ISC",
+  "keywords": [
+    "sharefilefromterminal",
+    "nepaliterminalfilesharing",
+    "filesharingusingcommander",
+    "quickshare",
+    "instantshare",
+    "fastshare"
+  ],
+  "dependencies": {
+    "commander": "^12.0.0",
+    "nodemailer": "^6.9.10"
+  },
+  "bugs": {
+    "url": "https://github.com/maheshbasnet089/clishare/issues"
+  },
+  "homepage": "https://github.com/maheshbasnet089/clishare#readme"
+}
