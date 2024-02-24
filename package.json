@@ -21,7 +21,8 @@
     "filesharingusingcommander",
     "quickshare",
     "instantshare",
-    "fastshare"
+    "fastshare",
+    "fsharecli"
   ],
   "dependencies": {
     "commander": "^12.0.0",
